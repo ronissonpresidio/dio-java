@@ -18,5 +18,6 @@ public class Dragao {
             }
 
         }
+        ler.close();
     }
 }
